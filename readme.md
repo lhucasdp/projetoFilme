@@ -3,7 +3,7 @@
 ## Rodando o projeto
 - Primeiro certifique-se de ter o [nodeJS](https://nodejs.org/en/) instalado em sua máquina.
 - Crie uma conta e solicite sua key em [TMDB](https://www.themoviedb.org/settings/api).
-- Clone o repositório ***projetoFinal*** em sua máquina pela branch 'development'
+- Clone o repositório ***projetoFinal*** em sua máquina pela branch ***development***
 - Acesse a pasta via terminal ou utilize o terminal da IDE
 - Abra a pasta src -> services -> api.js
 - Coloque sua key solicitada em ***api_key*** 
